@@ -94,7 +94,7 @@ func readEnvVars() appConfig {
 				break
 			}
 			decodedText, decodeErr := base64.StdEncoding.DecodeString(appConfig.text)
-			if decodeErr == nil && isHidden {git
+			if decodeErr == nil && isHidden {
 				appConfig.text = string(decodedText)
 			}
 		}

@@ -1,9 +1,9 @@
 [![Build Status](https://travis-ci.com/Elgarni/Ascii-Art-with-Docker-and-Go.svg?branch=master)](https://travis-ci.com/Elgarni/Ascii-Art-with-Docker-and-Go)
 
-#Description
+# Description
 This project utilizes [Go-figure](https://github.com/common-nighthawk/go-figure), by making it run in a Docker image.
 
-#Usage
+# Usage
 The very simple usage :
 ```shell
 docker run --rm -e text="Hello there" elqarni/hala

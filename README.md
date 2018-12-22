@@ -3,7 +3,7 @@
 # Description
 This project utilizes [Go-figure](https://github.com/common-nighthawk/go-figure), by making it run in a Docker image.
 
-![gif](docs/result-on-terminal.gif)
+![gif](https://github.com/Elgarni/Ascii-Art-with-Docker-and-Go/raw/master/docs/result-on-terminal.gif)
 
 # Usage
 The very simple usage :

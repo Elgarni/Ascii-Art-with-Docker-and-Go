@@ -1,7 +1,11 @@
 [![Build Status](https://travis-ci.com/Elgarni/Ascii-Art-with-Docker-and-Go.svg?branch=master)](https://travis-ci.com/Elgarni/Ascii-Art-with-Docker-and-Go)
 
+[![](https://images.microbadger.com/badges/image/elqarni/hala.svg)](https://microbadger.com/images/elqarni/hala "Get your own image badge on microbadger.com")
+
 # Description
 This project utilizes [Go-figure](https://github.com/common-nighthawk/go-figure), by making it run in a Docker image.
+
+![gif](docs/result-on-terminal.gif)
 
 # Usage
 The very simple usage :
